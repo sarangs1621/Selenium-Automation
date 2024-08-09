@@ -1,6 +1,6 @@
 # Selenium-Automation: AUMS Feedback Automation
 
-![Selenium Logo](https://www.selenium.dev/images/selenium_logo_square_green.png)
+![AUMS](https://aumsam.amrita.edu/cas/images/logo.png)
 
 ## 🚀 Overview
 
@@ -82,4 +82,4 @@ We welcome contributions! To contribute:
 
 ## 📬 Contact
 
-For any questions or issues, please reach out to [your email](mailto:sarangsnair1621@gmail.com).
+For any questions or issues, please reach out to [mail](mailto:sarangsnair1621@gmail.com).
