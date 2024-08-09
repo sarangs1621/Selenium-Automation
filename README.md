@@ -1,3 +1,7 @@
+Here’s the updated README with additional explanations about `chrome.exe` and a note about adding a GIF video for demonstration:
+
+---
+
 # Selenium-Automation: AUMS Feedback Automation
 
 ![AUMS Logo](https://aumsam.amrita.edu/cas/images/logo.png)
@@ -27,7 +31,7 @@ Before you get started, make sure you have:
   ```bash
   pip install Flask
   ```
-- **ChromeDriver**: Ensure you have the ChromeDriver executable. [Download it here](https://sites.google.com/chromium.org/driver/).
+- **ChromeDriver**: You need the ChromeDriver executable to interact with Chrome. You can download it from [ChromeDriver Download](https://sites.google.com/chromium.org/driver/). If you're using Replit, `chrome.exe` is used as the ChromeDriver file. Ensure it is correctly set up in your project directory.
 
 ## 🚀 Getting Started
 
@@ -48,7 +52,7 @@ Before you get started, make sure you have:
 
 3. **Setup ChromeDriver**
 
-   Make sure `chromedriver` is in your project directory or specify the path in the script.
+   Ensure `chromedriver` (or `chrome.exe` in Replit) is in your project directory, or specify the path in the script.
 
 4. **Run the Script**
 
@@ -71,6 +75,10 @@ Before you get started, make sure you have:
 
 Feel free to modify the JavaScript snippet (`namahshivaya_script`) to suit specific feedback form requirements. Customize error handling and logging as needed for your setup.
 
+## 🎥 Demonstration
+
+To help you get started, we've created a GIF video showing how to access the evaluation feedback link. You can view it [here](https://example.com/path/to/demo.gif). (Replace this URL with the actual URL where your GIF video is hosted.)
+
 ## 🤝 Contributing
 
 We welcome contributions! To contribute:
@@ -82,4 +90,7 @@ We welcome contributions! To contribute:
 
 ## 📬 Contact
 
-For any questions or issues, please reach out to [mail](mailto:sarangsnair1621@gmail.com).
+For any questions or issues, please reach out to [sarangsnair1621@gmail.com](mailto:sarangsnair1621@gmail.com).
+
+---
+
