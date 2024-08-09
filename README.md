@@ -1,6 +1,6 @@
 # Selenium-Automation: AUMS Feedback Automation
 
-![AUMS](https://aumsam.amrita.edu/cas/images/logo.png)
+![AUMS Logo](https://aumsam.amrita.edu/cas/images/logo.png)
 
 ## 🚀 Overview
 
