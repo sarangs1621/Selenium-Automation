@@ -1,4 +1,3 @@
-Here’s the updated README with additional explanations about `chrome.exe` and a note about adding a GIF video for demonstration:
 
 ---
 
